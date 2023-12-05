@@ -24,15 +24,6 @@
 - Ajout des secrets
 <img width="1680" alt="Screenshot 2023-12-03 at 21 29 35" src="https://github.com/Mehdi-Chakroun/EcomMicroServices/blob/main/Capture3.PNG">
 
-
-
-
-- Affichage des secrets
- <img width="1680" alt="Screenshot 2023-12-03 at 16 29 15" src="https://github.com/Mehdi-Chakroun/EcomMicroServices/blob/main/Capture4.PNG">
-
-
-<img width="1680" alt="Screenshot 2023-12-03 at 16 28 52" src="https://github.com/Mehdi-Chakroun/EcomMicroServices/blob/main/Capture6.PNG">
-
 - Ajout des secrets sur Vault depuis l'UI
   
 <img width="1680" alt="Screenshot 2023-12-03 at 16 28 59" src="https://github.com/Mehdi-Chakroun/EcomMicroServices/blob/main/Capture5.PNG">
